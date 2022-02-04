@@ -14,10 +14,10 @@
   - 단위 테스트
     - .NET Core Test Explorer
     - Coverage Gutters
-  - VSCode 탐색기(Explorer)
+  - VSCode 탐색기
     - vscode-solution-explorer
     - Peek Hidden Files
     - vscode-icons
-  - VSCode 편집기(Editor)
+  - VSCode 편집기
     - Bookmarks
     - Trailing Spaces
