@@ -38,3 +38,4 @@
     
 ## 참고 자료
 - [Visual Studio Code를 사용하여 .NET 콘솔 애플리케이션 디버그](https://docs.microsoft.com/ko-kr/dotnet/core/tutorials/debugging-with-visual-studio-code?pivots=dotnet-6-0)
+- [ProjectRenamer](https://github.com/ModernRonin/ProjectRenamer)
